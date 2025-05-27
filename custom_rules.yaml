@@ -1,0 +1,6 @@
+version: 1
+rules:
+  - 'DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择'
+  - 'PROCESS-NAME,DownloadService.exe,🚀 节点选择'
+  - 'PROCESS-NAME,Weiyun.exe,🚀 节点选择'
+  - 'PROCESS-NAME,baidunetdisk.exe,🚀 节点选择'
